@@ -1,4 +1,4 @@
-﻿using Assignment3;
+using Assignment3;
 using System;
 using System.Collections.Generic;
 using System.Linq;
