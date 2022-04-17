@@ -193,6 +193,5 @@ namespace Assignment3
                 return .35 * Salary;
             }
         }
-
     }
 }
