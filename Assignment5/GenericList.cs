@@ -12,10 +12,10 @@ namespace Assignment5
         {
             List<string> employee = new List<string>();
 
-            employee.Add("Maxwell");
-            employee.Add("Smith");
-            employee.Add("Henry");
-            employee.Add("Tedi");
+            employee.Add("Ram");
+            employee.Add("Shamh");
+            employee.Add("Nagesh");
+            employee.Add("Soham");
 
             Console.WriteLine("Employee Details are : ");
             foreach (var value in employee)
