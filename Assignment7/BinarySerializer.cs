@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,9 +10,9 @@ namespace BinarySerialization
 {
     public class Manager
     {
-        public int managerId = 101;
-        public string managerName = "Snehal Pagare";
-        public double managerBasicSalary = 90000;
+        public int managerId = 100;
+        public string managerName = "Anand Parab";
+        public double managerBasicSalary = 60000;
     }
 
 
