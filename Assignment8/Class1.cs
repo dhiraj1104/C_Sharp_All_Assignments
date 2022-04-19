@@ -40,13 +40,9 @@ namespace CustomSoftwareAttribute
                 Console.WriteLine(item.Name);
                 MethodInfo[] mi = item.GetMethods();
 
-
-
                 foreach (var method in mi)
                 {
                     Console.WriteLine(method.Name);
-
-
 
                 }
             }
