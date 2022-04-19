@@ -30,7 +30,7 @@ namespace CustomSoftwareAttribute
     {
         static void Main(string[] args)
         {
-            Employee emp = new Employee(5, "Rashmi", 456000);
+            Employee emp = new Employee(11, "Rockey", 50000);
 
             Assembly executing = Assembly.GetExecutingAssembly();
             Type[] types = executing.GetTypes();
